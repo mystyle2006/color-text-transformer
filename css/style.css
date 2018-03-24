@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Nanum Gothic', sans-serif;
+}
+
+.container {
+  padding: 20px;
+}
+
+  .button {
+    margin-top: 20px;
+    text-align: right;
+  }
+
+  .button button {
+    width: 120px;
+    height: 75px;
+    font-size: 20px;
+    color: white;
+    background-color: #68ccb0;
+    border: 0;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+  }
+
+  #editor-container {
+    height: 375px;
+  }
+
+  #result {
+    display: inline-block;
+    margin-right: 50%;
+    font-size: 30px;
+  }
