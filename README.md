@@ -12,3 +12,11 @@ color-text-transformer
   |- /js
     |- index.js
 ```
+
+Installation
+-------------
+To execute index.html, we transpile js code to be executable as it doesn't work at IE. Please put the below command.
+```
+npm install
+npm run transpiler
+```
