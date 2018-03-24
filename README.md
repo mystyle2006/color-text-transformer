@@ -15,7 +15,7 @@ color-text-transformer
 
 Installation
 -------------
-To execute index.html, we need to transpile js code to be executable as it doesn't work at IE. Please put the below command.
+To execute index.html, we need to transpile EC6 code to be executable as it doesn't work at IE. Please put the below command.
 ```
 npm install
 npm run transpiler
